@@ -6,6 +6,7 @@ This project was created for me to quickly configure new responsive mobile game 
 ## Authors
 
 * **Eric Bunese** - (https://github.com/ericbunese)
+* **René Cusumano** - Scripting
 
 ## License
 
